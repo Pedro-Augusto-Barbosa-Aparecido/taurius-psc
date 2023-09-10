@@ -1,0 +1,4 @@
+build
+__tests__
+node_modules
+bin
