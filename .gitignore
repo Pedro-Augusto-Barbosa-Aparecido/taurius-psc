@@ -8,3 +8,6 @@ build
 .vscode
 __tests__
 bin
+
+prisma
+.env*
