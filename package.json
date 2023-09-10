@@ -5,7 +5,7 @@
     "name": "Pedro Augusto Barbosa Aparecido",
     "url": "https://github.com/Pedro-Augusto-Barbosa-Aparecido"
   },
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Simple CLI to create crud with prisma",
   "private": false,
   "types": "build/types/types.d.ts",
